@@ -1,0 +1,12 @@
+{
+  "language": "Hebrew",
+  "vulnerabilities": [
+    "XSS",
+    "SQLi",
+    "SSRF"
+  ],
+  "max_daily": 5,
+  "ai_enabled": false,
+  "theme": "dark",
+  "api_key": ""
+}
